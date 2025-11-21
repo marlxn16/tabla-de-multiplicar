@@ -1,7 +1,9 @@
+/*Estilo general de la tarjeta*/
 .card {
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
+/* Bordes redondeados*/
 .form-control, .form-select {
   border-radius: 8px;
 }
@@ -10,6 +12,7 @@
   background-color: #007bff;
 }
 
+/* Efecto visual hover*/
 .btn-primary:hover {
   background-color: #0056b3;
   border-color: #0056b3;
